@@ -697,7 +697,7 @@ export default function Home() {
 					<p className="top-8 absolute mx-8 max-w-xl font-bold text-4xl text-center ginto">
 						Discord
 						<br />
-						FAKE AVATAR DECORATIONS
+						AVATAR DECORATIONS
 					</p>
 					<span className="mb-8 loading-container">
 						<span className="loading-cube"></span>

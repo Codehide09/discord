@@ -553,7 +553,7 @@ export default function Home() {
 									<button
 										className="flex justify-center items-center gap-1 bg-secondary hover:bg-secondaryAlt mt-3 py-1.5 rounded-[3px] transition"
 										onClick={() => {
-											window.open("https://github.com/ItsPi3141/discord-fake-avatar-decorations");
+											window.open("https://github.com/Codehid/discord-fake-avatar-decorations");
 										}}
 									>
 										<svg height="1em" fill="none" viewBox="2 2 22 21" xmlns="http://www.w3.org/2000/svg">
@@ -569,13 +569,13 @@ export default function Home() {
 						</div>
 						<p className="mb-4 text-center text-gray-400 text-sm">
 							Website made by{" "}
-							<Link href={"https://github.com/ItsPi3141"} className="hover:text-gray-200 underline" target="_blank">
+							<Link href={"https://github.com/Codehid"} className="hover:text-gray-200 underline" target="_blank">
 								ItsPi3141
 							</Link>
 							<br />
 							This project is open-source! View{" "}
 							<Link
-								href={"https://github.com/ItsPi3141/discord-fake-avatar-decorations"}
+								href={"https://github.com/Codehide/discord-fake-avatar-decorations"}
 								className="hover:text-gray-200 underline"
 								target="_blank"
 							>
